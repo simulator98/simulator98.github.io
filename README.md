@@ -45,4 +45,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 [1]: http://amzn.to/2vvBijB
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
-[3]: https://github.com/BrambleXu/pydata-notebook
+[3]: https://github.com/BrambleXu/pydata-notebook# simulator98.github.io
